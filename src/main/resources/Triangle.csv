@@ -1,0 +1,15 @@
+a,b,c,result
+6,6,6,Equilateral
+3.3,3.3,4.4,Isosceles
+7,8,9,Scalene
+11,5,5,Fake
+-1,22,25.5,Error
+15,-2,9,Error
+10,2.5,-5,Error
+0,22,25.5,Error
+3.3,0,3.3,Error
+15,9,0,Error
+-5.3,0,5,Error
+10,-2.5,-7,Error
+-19.3,799,0,Error
+0,-3.33,-4,Error
